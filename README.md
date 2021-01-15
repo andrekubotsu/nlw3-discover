@@ -1,5 +1,5 @@
 ![Print do projeto]
-(../media/discovernlw3.jpeg?raw=true)
+(https://github.com/andrekubotsu/nlw3-discover/blob/media/discovernlw3.jpeg)
 
 # nlw3-discover
 Next Level Week 3 - Trilha Discovery - Projeto de app web completo, do front ao back com Web Responsivo (Mobile First), JS, Node, Express, HBS, SQLite e LeafLet. 
