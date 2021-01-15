@@ -1,0 +1,29 @@
+/* CSS para o site */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* ajusta o comportamento do padding para não somar */
+}
+
+body {
+   height: 100vh;
+   color: white; 
+   background: #ebf2f5;
+}
+
+:root {
+    font-size: 62.5%; /* 10px controle das fontes a partir do root, usar rem e em*/
+}
+body, input, button, textarea {
+    /* font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 400; */
+
+    font: 400 1.8rem/1 'Nunito', sans-serif;
+}
+
+/* em - busca no elemento pai uma medida de referencia onde 1em = 100% de x px */
+/* rem - busca no root element, sempre no root */
+
+
